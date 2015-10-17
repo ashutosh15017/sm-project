@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+    <link rel="stylesheet" href="main.css">
+  </head>
+
+  <body>
+    <div class="nav">
+      <div class="container">
+        <ul class="pull-left">
+          <li><a href="#">Signup</a></li>
+          <li><a href="#">Login</a></li>
+        </ul>
+        <ul class="pull-right">
+          <li><a href="#">About</a></li>
+          <li><a href="#">Help</a></li>
+          <li><a href="#">Contact us</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="jumbotron">
+      <div class="container">
+        <h1>#website name</h1>
+        <h2>Tease your taste buds!!!</h2>
+        
+      </div>
+    </div> 
+
+
+    <div class="neighborhood-guides">
+        <div class="container">
+          <h3> EXPLORE THE DIFFERENT CUISINES </h3>
+       <br> 
+
+      <div class="row">
+        <div class="col-md-4">
+         <div class="thumbnail">
+           <img src="http://www.rashmee.com/wp-content/uploads/2015/02/Indian_food_az_2.png" class="img-circle" alt="Cinque Terre" width="304" height="236">
+         </div>  
+         <br>
+         <h3>INDIAN</h3>
+        </div>
+      <div class="col-md-4">
+       <div class="thumbnail">
+            <img src="http://www.eventsplanner365.com/wp-content/uploads/italian-food-catering001.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> >
+       </div>
+       <h3>ITALIAN</h3>
+      </div>
+           
+      <div class="col-md-4">
+       <div class="thumbnail">
+            <img src="http://media-cdn.tripadvisor.com/media/photo-s/03/34/77/5f/jack-s-chinese-restaurant.jpg" class="img-circle" alt="Cinque Terre" width="304" height="236"> >
+       </div>
+        </div>
+        <h3>CHINESE</h3>
+      </div>
+    </div> 
+
+      
+    
+  </body>
+</html>
